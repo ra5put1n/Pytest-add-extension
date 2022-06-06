@@ -1,6 +1,6 @@
 # How to add extension for automation test in Pytest for [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Pytest-add-extension)
 
-If your webapp requires an extension for automation test in Pytest for Lambdatest, you can use the following steps to upload extension and run your test.
+If your webapp requires an extension for automation test in Pytest for Lambdatest, you can use the following steps to upload extension and run your test. You can refer to sample test repo [here](https://github.com/LambdaTest/pytest-selenium-sample).
 
 # Steps:
 
@@ -38,6 +38,11 @@ capabilities = {
 ```
 
 ## Step 4: Run your test
+
+```
+cd tests //navigate to tests directory
+python sample_todo.py
+```
 
 # Links:
 
