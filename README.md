@@ -1,4 +1,4 @@
-# How to add extension for automation test in Pytest for LambdaTest
+# How to add extension for automation test in Pytest for [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Pytest-add-extension)
 
 If your webapp requires an extension for automation test in Pytest for Lambdatest, you can use the following steps to upload extension and run your test.
 
@@ -38,4 +38,8 @@ capabilities = {
 ```
 
 ## Step 4: Run your test
+
+# Links:
+
+[LambdaTest Community](http://community.lambdatest.com/)
 
